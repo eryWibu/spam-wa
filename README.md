@@ -8,4 +8,13 @@
    python wa.pyc
  
 
+          
+
+# Run
+  cd spam-wa
+
+  python wa.pyc
+
+
+
           Jangan Lupa Follow
